@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/kenta-xu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://outlook.live.com/mail/0/deeplink/compose?to=kentaxu@yahoo.com">
+    <img src="https://img.shields.io/badge/Yahoo-purple?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Badge"/>
+  </a>
 </div>
 
 <div id="views" align="center">
@@ -22,4 +25,9 @@
 
 ### About Me :smiley:: 
 
+My name is Kenta Xu and I'm currently a graduate student at the Georgia Institute of Technology for Computer Engineering. I've also completed my undergrad in Computer Engineering at Georgia Tech.
+
+- I'm looking for Full Time Software Engineering roles starting in June 2023
+- I'm proficient coding in Python, C++, Java, C
+- I have experience with Cloud Computing (AWS) and Embedded Systems
 
