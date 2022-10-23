@@ -29,5 +29,5 @@ My name is Kenta Xu and I'm currently a graduate student at the Georgia Institut
 
 - I'm looking for Full Time Software Engineering roles starting in June 2023
 - I'm proficient coding in Python, C++, Java, C
-- I have experience with Cloud Computing (AWS) and Embedded Systems
+- I have experience with Cloud Computing (AWS/GCP), Embedded Systems, and Cyber Security
 
