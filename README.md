@@ -31,3 +31,4 @@ My name is Kenta Xu and I'm currently a graduate student at the Georgia Institut
 - I'm proficient coding in Python, C++, Java, C
 - I have experience with Cloud Computing (AWS/GCP), Embedded Systems, and Cyber Security
 
+I always enjoy meeting people and encourage you to reach out!
